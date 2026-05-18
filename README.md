@@ -1,5 +1,4 @@
-"# ForgeAI" 
-# Forge Labs
+ # Forge Labs
 
 > A global collaboration ecosystem for developers, researchers, builders, and innovators.
 
